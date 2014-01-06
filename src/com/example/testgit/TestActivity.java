@@ -10,7 +10,7 @@ public class TestActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		System.out.println("OnCreate Added a Logs");
-		System.out.println("Trying Update");
+		System.out.println("Trying Commit from Git GUI");
 		setContentView(R.layout.activity_main);
 	}
 }
