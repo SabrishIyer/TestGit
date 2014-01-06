@@ -10,6 +10,7 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		System.out.println("OnCreate Added a Logs");
+		System.out.println("Committed on Web");
 		setContentView(R.layout.activity_main);
 	}
 
