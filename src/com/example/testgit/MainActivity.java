@@ -4,7 +4,7 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
 
-// main activity written by parthiv
+// main activity written by parthiv patel
 public class MainActivity extends Activity {
 
 	@Override
