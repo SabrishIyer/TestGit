@@ -6,6 +6,7 @@ import android.view.Menu;
 
 // main activity written by parthiv patel
 // date 7 january
+// updated on jan 13
 public class MainActivity extends Activity {
 
 	@Override
